@@ -49,4 +49,5 @@ while True:
         res = 2
         score += 100
     print(message[res])
+
 print("Bye!")
